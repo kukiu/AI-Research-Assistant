@@ -1,0 +1,5 @@
+L'IA agentique est un système d'intelligence artificielle capable d'accomplir un objectif spécifique avec une supervision limitée. Elle se compose d'agents d'IA—des systèmes d'apprentissage automatique qui peuvent opérer de manière autonome dans le contexte de l'IA générative. Ces agents sont caractérisés par leur capacité à prendre des décisions et à agir de manière autonome, sans intervention humaine constante.
+
+    L'IA agentique est une forme avancée d'IA axée sur la prise de décision et l'action autonomes. Elle peut effectuer des tâches telles que des recherches sur Internet, la mise à jour d'informations sur les prospects, et la prise de décisions. Cependant, elle présente certains inconvénients, notamment une vitesse de traitement plus lente et une fiabilité parfois limitée.
+
+    En résumé, l'IA agentique est une technologie d'IA qui agit avec autonomie, initiative et adaptabilité pour atteindre des objectifs, en prenant des décisions et en effectuant des actions de manière indépendante. Elle représente une avancée significative dans le domaine de l'IA, bien qu'elle ne soit pas encore parfaite.

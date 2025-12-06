@@ -1,0 +1,5 @@
+"Feature","With SerpAPI","Without SerpAPI"
+"Real-time info","✅ Yes","❌ No (limited to LLM’s training data)"
+"Up-to-date results","✅ Yes","❌ No"
+"Automated research","✅ Yes","❌ Limited"
+"Dynamic responses","✅ Yes","❌ No"

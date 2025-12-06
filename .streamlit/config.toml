@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0b8feeff"
+backgroundColor = "rgba(92, 159, 160, 1)"
+secondaryBackgroundColor = "#eaefe9ff"
+textColor = "#0f0d0aff"
+font = "sans serif"
